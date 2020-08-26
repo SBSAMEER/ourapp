@@ -15,7 +15,7 @@ components : flow ref, logger, transform mess
   scopes : Async, cache
   flow:for each, sub flow,Try
   transformers : set payload, set variable, Remove variable
-integration patterns
+integration patterns in mule
 M Unit
 Batch processing
 error codes
