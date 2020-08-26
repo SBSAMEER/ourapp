@@ -1,0 +1,29 @@
+version control
+GIT ( hot fix video watch again)
+cha
+CI CD pipelines using GIT and Jenkins
+major differences MULE 3 AND 4
+1.0 2.0 differences
+splitter not available in 4
+compare all the components (google ithe differences in components)
+attributes
+Proeperties configuration
+components : flow ref, logger, transform mess
+  endpoints : scheduler
+  error handling
+  flow control: choice , first successful
+  scopes : Async, cache
+  flow:for each, sub flow,Try
+  transformers : set payload, set variable, Remove variable
+integration patterns
+M Unit
+Batch processing
+error codes
+error types
+steps to follow in production failures in  Mulesoft
+can you directly copy mule 3 into mule 4
+policies you applied for API's
+client id and cleint secret
+troubleshooting mule 3 and mule  4 API's
+how are we migrating from mule 3 to Mule 4
+API work, complete 0.8 and 1.0 and what else you have done including examples, taits, fragmenst,
