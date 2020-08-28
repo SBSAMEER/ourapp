@@ -24,6 +24,12 @@ steps to follow in production failures in  Mulesoft
 can you directly copy mule 3 into mule 4
 policies you applied for API's
 client id and cleint secret
-troubleshooting mule 3 and mule  4 API's
-how are we migrating from mule 3 to Mule 4
-API work, complete 0.8 and 1.0 and what else you have done including examples, taits, fragmenst,
+troubleshooting mule 3 and mule  4 API's ask sunny tomorrow morning
+how are we migrating from mule 3 to Mule 4 , rewrote all the application and used the MMA too which is little better
+API work, complete 0.8 and 1.0 and what else you have done including examples, taits, fragmens	t,
+
+Ask allyson for questions.
+Go through all the projects in Kcs projects
+Auto discovery	
+Share point and ldap	
+Cloude deployments 
